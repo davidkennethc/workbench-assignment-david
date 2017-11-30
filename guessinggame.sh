@@ -11,7 +11,7 @@ while [[ "$guess" -ne "$files" ]]; do
     if [[ "$guess" =~ [^0-9] ]]; then
     echo "Please enter a number."
       elif [[ "$guess" -eq "$files" ]]; then
-        echo -e "\aYes! $guess is the correct answer! Congrats, you deserve a cookie!!"
+        echo -e "\aYes! $guess is the correct answer! Congratulations!!"
       elif [[ "$files" -gt "$guess" ]]; then
         echo "There are more files than that. Guess again."
     else
@@ -22,3 +22,5 @@ done
 }
 
 guessinggame
+
+echo "***Guessinggame finished***"
