@@ -11,4 +11,4 @@ README.md: guessinggame.sh
 
 	echo " " >> README.md
 
-	echo "*Thank you*" >> README.md
+	echo "  *Thank you*" >> README.md
