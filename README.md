@@ -1,7 +1,7 @@
-## **This is David's Unix Workbench Peer-graded Assignment**
+## **David's Unix Workbench Assignment**
  
-1.**The number of lines of codes contained in my guessinggame.sh are: 26**
+1. **The number of lines of codes contained in my guessinggame.sh are: 26**
  
-2.**This makefile run on: 11/30/17	19:40**
+2. **This makefile run on: 12/01/17	09:08**
  
-*Thank you* :relaxed: :pray:
+*Thank you*
