@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#File: guessinggametest.sh
+#File: guessinggame.sh
 
 function guessinggame {
 files=$(ls -l | grep '^-' | wc -l)
