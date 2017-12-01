@@ -7,8 +7,8 @@ README.md: guessinggame.sh
 
 	echo " " >> README.md
 
-	echo "2. **Date and time the makefile run: $$(date +%D%t%H:%M)**" >> README.md
+	echo "2. **Date and time the makefile was run: $$(date +%D%t%H:%M)**" >> README.md
 
 	echo " " >> README.md
 
-	echo "  *Thank you*" >> README.md
+	echo "*Thank you*" >> README.md
